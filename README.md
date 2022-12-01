@@ -1,1 +1,1 @@
-# Decentralized Social Media Application
+# Decentralized Social Media Application built using Lens Protocol
